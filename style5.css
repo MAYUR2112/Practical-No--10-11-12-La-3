@@ -1,0 +1,81 @@
+h1
+{
+	font-size: 400%;
+	text-align: center;
+	color: red;
+}
+h2{
+	font-size: 200%;
+	border-style: solid;
+}
+
+h3
+{
+	font-size: 200%;
+	border-style: solid;
+}
+td
+{
+	text-align: center;
+	font-size: 125%;
+}
+h4
+{
+	font-size: 200%;
+	border-style: solid;
+}
+h5
+{
+	font-size: 200%;
+	border-style: solid;
+}
+body
+{
+border-style: solid;
+background-image: url("bk.jpg");	
+}
+h6
+{
+	font-size: 200%;
+	border-style: solid;
+}
+th
+{
+	font-size: 150%;
+}
+h7
+{
+	font-size: 200%;
+	border-style: solid;
+}
+h8
+{
+	font-size: 200%;
+	border-style: solid;
+}
+h8
+{
+	font-size: 200%;
+	border-style: solid;
+}
+h1
+{
+	font-size: 400%;
+	text-align: center;
+	color: red;
+}
+p
+{
+	font-size: 125%;
+}
+article
+{
+	font-size: 150%;
+	font-style: solid;
+	border-style: solid;
+}
+a
+{
+	font-size: 200%;
+}
+
